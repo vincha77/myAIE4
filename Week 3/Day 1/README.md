@@ -1,4 +1,4 @@
-# Week 6: Day 1 Session
+# Week 3: Day 1 Session
 
 In today's assignment, we'll be creating an Agentic LangChain RAG Application.
 
