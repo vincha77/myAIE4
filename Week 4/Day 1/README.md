@@ -17,6 +17,24 @@ The notebook Colab link is located [here](https://colab.research.google.com/driv
 
 The completed notebook!
 
+#### 🏗️ BONUS ACTIVITY (FULL MARKS IF COMPLETED IN LIEU OF ABOVE NOTEBOOK):
+
+Reproduce the RAGAS Evolution Steps - but utilize a LangGraph Agent Graph. 
+
+Your final state (output) should contain (at least, not limited to):
+
+1. `List(dict)`: Evolved Questions, their IDs, and their Evolution Type.
+2. `List(dict)`: Question IDs, and Answer to the referenced Evolved Question.
+3. `List(dict)`: Question IDs, and the relevant Context(s) to the Evolved Question.
+
+The Graph should handle:
+
+1. Simple Evolution.
+2. Multi-Context Evolution.
+3. Reasoning Evolution.
+
+It should take, as input, a list of LangChain Documents.
+
 ### Deliverables
 
 - A short Loom of the notebook, and a 1min. walkthrough of the application in full
