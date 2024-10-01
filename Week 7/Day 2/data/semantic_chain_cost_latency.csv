@@ -1,0 +1,3 @@
+Metric,naive,bm25,lccompression,mqchain,pd,ensemble
+Cost($),0.045293,0.0174115,0.1711125,0.059637,0.009004,0.23772
+Latency(sec),42.55,27.81,316.23,89.61,33.79,402.46
