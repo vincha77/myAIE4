@@ -18,9 +18,9 @@ Create a "+ New Endpoint" from the Inference Endpoints dashboard.
 
 ![image](https://i.imgur.com/G6Bq9KC.png)
 
-Select the `NousResearch/Meta-Llama-3-8B-Instruct` model repository and name your endpoint. Select N. Virginia as your region (`us-east-1`). Give your endpoint an appropriate name. Make sure to select *at least* a L4 GPU. 
+Select the `NousResearch/Meta-Llama-3.1-8B-Instruct` model repository and name your endpoint. Select N. Virginia as your region (`us-east-1`). Give your endpoint an appropriate name. Make sure to select *at least* a L4 GPU. 
 
-![image](https://i.imgur.com/X3YlUbh.png)
+![image](https://i.imgur.com/5FykY1O.png)
 
 Select the following settings for your `Advanced Configuration`.
 
@@ -69,7 +69,7 @@ Once you're done - please move on to Build Task 3!
 
 ![image](https://i.imgur.com/5RyBdP5.png)
 
-3. Copy and Paste (`cp ...` or through UI) the contents of `Week 4/Day 1` into the newly cloned repository. 
+3. Copy and Paste (`cp ...` or through UI) the contents of `Week 8/Day 2` into the newly cloned repository. 
 
 > NOTE: Please keep the `README.md` that was cloned from your space and delete the class `README.md`.
 
