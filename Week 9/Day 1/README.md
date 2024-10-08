@@ -9,6 +9,8 @@
 
 Create a RAG Application that runs on your local hardware. 
 
+> NOTE: An example of this build can be found [here](https://github.com/AI-Maker-Space/LangServe-Demo)!
+
 ## ADVANCED BUILD:
 
 Implement Semantic Caching with Redis (or similar solution), and add tracing through LangSmith, or WandB.
